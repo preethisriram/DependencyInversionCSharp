@@ -1,0 +1,14 @@
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\netcoreapp3.1\DependencyInjectionPractice.exe
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\netcoreapp3.1\DependencyInjectionPractice.deps.json
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\netcoreapp3.1\DependencyInjectionPractice.runtimeconfig.json
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\netcoreapp3.1\DependencyInjectionPractice.runtimeconfig.dev.json
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\netcoreapp3.1\DependencyInjectionPractice.dll
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\bin\Debug\netcoreapp3.1\DependencyInjectionPractice.pdb
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.csproj.AssemblyReference.cache
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.AssemblyInfoInputs.cache
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.AssemblyInfo.cs
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.dll
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.pdb
+C:\Users\v-psriram\source\repos\DependencyInjectionPractice\DependencyInjectionPractice\obj\Debug\netcoreapp3.1\DependencyInjectionPractice.genruntimeconfig.cache
